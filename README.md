@@ -1,4 +1,4 @@
-# Banking Dashboard Frontend — React + Redux + MUI + Auth + Charts
+# •	FinTrust Bank Frontend — React + Redux + MUI + Auth + Charts
 
 ## Run
 ```bash
